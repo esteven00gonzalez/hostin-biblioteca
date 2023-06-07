@@ -1,0 +1,81 @@
+@import url(https://weloveiconfonts.com/api/?family=zocial);
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
+.entrega{
+    border: 2px solid black;
+    width: 350px;
+    height: 250px;
+    display: grid;
+    justify-content: center;
+}
+.perfil{
+height: 40px;
+width: 40px;
+margin-left: 1150px;
+}
+h3{
+    margin-left: 20px;
+    font-size: 40px;
+    margin-top: 30px;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+}
+h5{
+    font-size: 20px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    justify-content: center;
+    display: grid;
+}
+
+input{
+    width: 20px;
+    height: 15px;
+    margin-left: 10px;
+    
+}
+.buscar{
+    margin-left: 30px;
+    font-size: 25px;
+}
+.buscar1{
+    width: 300px;
+    height: 20px;
+    margin-bottom: 25px;
+    border: 2px solid black;
+}
+fieldset{
+    border: 3px solid black;
+    width: 1100px;
+    margin-left: 80px;
+    background-color:#f1b9b9;
+    opacity:0.7;
+    
+}
+.contenido{
+    display: grid;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+legend{
+    font-size: 25px;
+    background-color:#f1b9b9;
+    opacity:0.9;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+td{
+    width: 400px;
+    font-size: 20px;
+}
+.fondo{
+    background-image: url(../img/interior-biblioteca-dibujos-anim\ \(2\).png);
+    height: 1000px;
+    padding-top: 25px;
+
+}

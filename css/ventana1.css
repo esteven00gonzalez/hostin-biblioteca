@@ -1,0 +1,115 @@
+@import url(https://weloveiconfonts.com/api/?family=zocial);
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
+h2{
+    margin-left: 35px;
+    margin-top: 30px;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 35px;
+}
+.titulo{
+    margin-top: 10px;
+    font-size: 25px;
+    margin-left: 130px;
+}
+.editorial{
+    margin-top: 10px;
+    font-size: 25px;
+    margin-left: 105px;
+}
+.edicion{
+    margin-top: 10px;
+    font-size: 25px; 
+    margin-left: 115px;
+}
+.area{
+    margin-top: 10px;
+    font-size: 25px; 
+    margin-left: 145px;
+}
+.isbn{
+    margin-top: 10px;
+    font-size: 25px; 
+    margin-left: 137px;
+}
+.numero{
+    margin-top: 10px;
+    font-size: 25px; 
+}
+.cajacrear{
+    margin-left: 400px;
+    background-color:#f1b9b9;
+    opacity:0.7;
+    border: 3px solid black;
+    width: 725px;
+    height: 425px;
+}
+.contenido{
+    display: grid;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.estado{
+    margin-top: 10px;
+    font-size: 25px;
+    margin-left: 127px;
+}
+
+.titulo1{
+    border: 3.5px solid black;
+    width:400px ;
+    height: 25px;
+    margin-top: 9px;
+}
+.editorial1{
+    border: 3.5px solid black;
+    width: 350px;
+    height: 30px;
+    margin-top: 9px;
+}
+.edicion1{
+    border: 3.5px solid black;
+    width: 260px;
+    height: 25px;
+    margin-top: 9px;
+}
+.isbn1{
+    border: 3.5px solid black;
+    width: 200px;
+    height: 25px;
+    margin-top: 9px;
+}
+.numero1{
+    border: 3.5px solid black;
+    width: 80px;
+    height: 25px;
+    margin-top: 9px;
+}
+.estado1{
+    border: 3.5px solid black;
+    width: 260px;
+    height: 30px;
+    margin-top: 9px;
+}
+.guardar{
+    background-color: white;
+    margin-top: 18px;
+    border: 3.5px solid black;
+    width: 90px;
+    height: 30px;
+}
+.fondo{
+    background-image: url(../img/interior-biblioteca-dibujos-anim\ \(2\).png);
+    height: 1000px;
+    padding-top: 25px;
+}
+.perfil{
+height: 40px;
+width: 40px;
+margin-left: 1150px;
+}
