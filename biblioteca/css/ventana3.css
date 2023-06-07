@@ -1,0 +1,45 @@
+@import url(https://weloveiconfonts.com/api/?family=zocial);
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
+.fondo{
+    background-image: url(../img/interior-biblioteca-dibujos-anim\ \(2\).png);
+    height: 1000px;
+    padding-top: 25px;
+}
+h2{
+    margin-left: 10px;
+    margin-top: 5px;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 35px;
+}
+.caja{
+    background-color:#f1b9b9;
+    opacity:0.7;
+    width: 1100px;
+    height: 350px;
+    
+}
+.primer{
+    background-color:#f1b9b9;
+    opacity:0.7;
+}
+.title{
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 15px;
+}
+.numero{
+    background-color:#f1b9b9;
+    opacity:0.7; 
+    width: 40px;
+    margin-left: 650px;
+}
+.perfil{
+    height: 40px;
+    width: 40px;
+    margin-left: 1150px;
+ }
